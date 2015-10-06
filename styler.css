@@ -1,0 +1,149 @@
+ <style>
+ 
+ #main
+ {
+	 
+	 height:100%;
+	 width:100%;
+	 background-image:url("sample/background-header.jpg");
+ }
+ 
+.header
+{
+     height:32%;
+     width:100%;
+	 color: white;
+      text-shadow:1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+     background-image:url("header_background.jpg");
+	 padding-top: -2%;
+	 margin-top: -7px;
+	  
+	 
+    
+    
+}
+
+.mid
+{
+   height:90%;
+  width:80%;
+  background: linear-gradient(pink 5%, white 90%, pink  );
+  margin-left:10%;
+  margin-right:10%;
+  margin-top:-1px;
+  
+	}
+	
+.l1
+{
+	height:39%;
+	width:40%;
+	padding: 5%;
+	border-color: orange;
+	border-radius: 50px;
+	border-style: dashed;
+	font-size:20;
+	text-shadow: 2px 2px green;
+	color: orange;
+	float:left;
+	padding-bottom:2.2px;
+	
+	
+}
+
+.l2
+{
+
+
+	height:39%;
+	width:40%;
+	padding: 5%;
+	border-color: orange;
+	border-radius: 50px;
+	border-style: dashed;
+	font-size:20;
+	text-shadow: 2px 2px green;
+	color: orange;
+	float:right;
+	padding-bottom:2.2px;
+		
+	
+	
+}
+
+
+.l
+{
+	padding:2%;
+	
+	font-size: 30;
+	text-shadow: 2px 2px red ;
+	color: white;
+	
+	
+}
+ 
+   
+ .login
+  {
+	font-family: Arial, Helvetica, sans-serif;
+	margin-top:10%;
+	margin-left:2%;
+	float:inherit;
+	
+	
+}
+ .login:link
+ {
+    text-decoration: blink;
+	color: red;
+ 
+ }
+ .login:hover
+ { 
+  color:blue;
+  text-decoration: none;
+  width:85%;
+  }
+  .login:active
+  {
+	   width:85%;
+	  
+  }
+  
+  .reg
+  {
+    margin-top:10%;
+	margin-left:2%;
+	float:inherit;
+	}
+	
+	.reg:link
+ {
+    text-decoration: none;
+	color: red;
+ 
+ }
+ .reg:hover
+ { 
+  color:blue;
+  text-decoration: none;
+  width:85%;
+  }
+ .reg:active
+ {
+	  width:85%;
+ }
+ 
+ .footer
+ {
+	 height:30%;
+	 width:100%;
+	 background-image:url("background_header.jpg"); 
+	 background-repeat:auto;
+	 
+	 
+ }
+  
+  
+ </style>
